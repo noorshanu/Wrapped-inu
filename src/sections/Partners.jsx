@@ -13,7 +13,7 @@ function Partners() {
   ]
   return (
     <div className="mt-32">
-      <h1 className="font-thunder text-6xl sm:text-7xl mb-7 text-center font-bold text-[#E8BA4B]">
+      <h1 className="font-sora text-6xl sm:text-7xl mb-7 text-center font-bold text-[#E8BA4B]">
         Partners
       </h1>
       <div className="py-14 px-7  ">
