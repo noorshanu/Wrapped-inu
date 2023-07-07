@@ -8,7 +8,7 @@ import Tokenomics from "./sections/Tokenomics";
 
 function App() {
   return (
-    <div className="App bg-[#191A19]">
+    <div className="App bg-[#0b4d5f]">
       <Navbar />
       <div className="pt-[85px] max-w-6xl mx-auto px-5">
         <Hero />

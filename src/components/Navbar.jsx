@@ -30,7 +30,7 @@ export default function Navbar() {
     <>
       <div className="fixed top-0 left-0 right-0 mx-auto bg-white bg-opacity-[0.0001] backdrop-filter backdrop-blur-2xl z-10 max-w-7xl">
         <div className="font-orbitron flex items-center justify-between  py-3 lg:justify-start lg:space-x-10 animate-top-left px-5">
-          <img src="/logo.svg" className="" alt="" />
+          <img src="/logo.png" className="h-[85px]" alt=""  />
           <div className=" flex items-center flex-grow space-x-4 lg:w-0">
             <nav
               as="nav"
@@ -60,9 +60,9 @@ export default function Navbar() {
             </nav>
             <a
               href="/"
-              className="lg:flex hidden  justify-self-end whitespace-nowrap rounded-md cursor-pointer border border-transparent transition-colors hover:border-white   py-2 font-bold  px-3 text-sm hover:text-white bg-[#E8BA4B] hover:bg-black "
+              className="lg:flex hidden  justify-self-end whitespace-nowrap rounded-md cursor-pointer border border-transparent transition-colors hover:border-white   py-2 font-bold  px-3 text-sm hover:text-white bg-[#ffb400] hover:bg-black font-sora "
             >
-              <span>BUY APE 2.0</span>
+              <span>BUY NOW</span>
             </a>
             <div className=" lg:hidden flex justify-end w-full pr-3">
               <button

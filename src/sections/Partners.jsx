@@ -2,14 +2,14 @@ import Marquee from 'react-fast-marquee'
 
 function Partners() {
   let logos = [
-    '/logos/eth.svg',
-    'logos/logo2.svg',
-    '/logos/logo3.svg',
-    '/logos/dexTools.svg',
-    '/logos/cmc.svg',
-    '/logos/coin.svg',
-    '/logos/binance.svg',
-    '/logos/gate-io.svg',
+    '/logos/img1.png',
+    'logos/img2.png',
+    '/logos/img3.png',
+    '/logos/img4.png',
+    '/logos/img5.png',
+    '/logos/img6.png',
+    '/logos/img7.png',
+    '/logos/img8.png',
   ]
   return (
     <div className="mt-32">
