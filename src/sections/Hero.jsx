@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div className="">
       <div className="flex w-full justify-between items-center  pt-20  sm:py-7 mb-20">
-        <img src="/hero.png" className="w-[50%]   h-auto" />
+        <img src="/hero.png" className="w-[50%]   h-auto"  alt=''/>
         <div className="flex-[1] w-[40%] flex flex-col px-2 items-center max-w-xs text-white text-center">
           <h2 className="text-lg font-pop mb-3">Welcome To</h2>
           <h1 className="text-4xl sm:text-7xl font-bold font-pop mb-3 font-sora">

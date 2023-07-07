@@ -26,7 +26,7 @@ const Tokenomics = () => {
         />
         <img
           className="md:hidden flex w-full sm:w-[55%] mx-auto my-7"
-          src="/tokenomics-center-sm.svg"
+          src="/tokenomics-center-sm.png"
         />
         <div className="flex flex-col justify-between  lg:h-[300px] md:h-[180px]   w-auto md:max-w-[200px] self-stretch gap-y-6 sm:mt-0 mt-[-50px]">
           <div className=" ">
