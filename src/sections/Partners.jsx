@@ -13,8 +13,16 @@ function Partners() {
   ]
   return (
     <div className="mt-32">
+          <div className='flex gap-4 mt-16'>
+      <img src="/toko1.png" alt="" className='mx-auto' />
+      <h1 className="text-5xl sm:text-7xl text-[#E8BA4B] text-center font-bold mt-20 font-sora">
+      Partners
+      </h1>
+
+      <img src="/toko2.png" alt="" className='mx-auto' />
+      </div>
       <h1 className="font-sora text-6xl sm:text-7xl mb-7 text-center font-bold text-[#E8BA4B]">
-        Partners
+       
       </h1>
       <div className="py-14 px-7  ">
         <Marquee direction="left">

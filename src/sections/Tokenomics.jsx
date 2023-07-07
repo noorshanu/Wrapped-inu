@@ -3,9 +3,14 @@ import React from 'react'
 const Tokenomics = () => {
   return (
     <div id='token'>
+      <div className='flex gap-4 mt-16'>
+      <img src="/toko1.png" alt="" className='mx-auto' />
       <h1 className="text-5xl sm:text-7xl text-[#E8BA4B] text-center font-bold mt-20 font-sora">
         Tokenomics
       </h1>
+
+      <img src="/toko2.png" alt="" className='mx-auto' />
+      </div>
       <div className="flex flex-col md:flex-row justify-center items-center  mt-20">
         <div className="flex flex-col justify-between lg:h-[300px]   md:h-[180px]   w-auto md:max-w-[200px] self-stretch gap-y-6 pl-12 mb-[-80px]">
           <div className=" ">
