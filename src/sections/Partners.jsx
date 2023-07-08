@@ -13,13 +13,13 @@ function Partners() {
   ]
   return (
     <div className="mt-32">
-          <div className='flex gap-4 mt-16'>
-      <img src="/toko1.png" alt="" className='mx-auto' />
-      <h1 className="text-5xl sm:text-7xl text-[#E8BA4B] text-center font-bold mt-20 font-sora">
+          <div className='flex gap-4 mt-16 items-center'>
+      <img src="/toko1.png" alt="" className='mx-auto  h-[55px] sm:h-auto' />
+      <h1 className="text-3xl sm:text-7xl text-[#E8BA4B] text-center font-bold mt-0 sm:mt-20 font-sora">
       Partners
       </h1>
 
-      <img src="/toko2.png" alt="" className='mx-auto' />
+      <img src="/toko2.png" alt="" className='mx-auto  h-[55px] sm:h-auto' />
       </div>
       <h1 className="font-sora text-6xl sm:text-7xl mb-7 text-center font-bold text-[#E8BA4B]">
        
